@@ -84,7 +84,7 @@ Some insights discovered from the dataset:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+
 
 ---
 
