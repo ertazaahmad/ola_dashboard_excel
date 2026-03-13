@@ -108,5 +108,5 @@ Through this project I improved my skills in:
 
 ## 👨‍💻 Author
 
-**Arsh**
+**Mohd Ertaza Ahmad**
 Aspiring Data Analyst | Learning Excel, Power BI, and Data Visualization
